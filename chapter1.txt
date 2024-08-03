@@ -1,0 +1,6 @@
+Dear Reader,
+
+This is my first chapter on git repository.
+
+writer,
+Gangesh Yadav
